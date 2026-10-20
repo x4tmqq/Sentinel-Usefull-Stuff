@@ -2,7 +2,7 @@ local Blacklist = {
     ketamine    = true,
     simplespy   = true,
     cobalt      = true,
-    dex         = true,
+    dex         = false,
     xeal        = true,
 }
 
